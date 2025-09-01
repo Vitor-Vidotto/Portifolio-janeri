@@ -3,8 +3,8 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Escritório de Advocacia",
-  description: "Site institucional de advocacia",
+  title: "Portifólio Ana Phols",
+  description: "Portfólio Profissional",
 };
 
 export default function RootLayout({
