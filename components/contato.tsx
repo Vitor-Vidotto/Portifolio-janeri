@@ -24,7 +24,7 @@ export default function Contato() {
 
       <div className="flex justify-center gap-6 flex-wrap">
         <motion.a
-          href="mailto:contato@advogada.com"
+          href="mailto:contatoanaphols@gmail.com"
           className="flex items-center gap-2 bg-blue-900 text-white font-semibold px-6 py-3 rounded transition"
           variants={buttonVariants}
           initial="hidden"
