@@ -1,9 +1,10 @@
 "use client";
 
 import { Mail, Linkedin, MessageCircleMore } from "lucide-react";
-import {motion} from "framer-motion";
+import { motion, Variants } from "framer-motion";
 
-const buttonVariants = {
+
+const buttonVariants:  Variants = {
   hidden: { opacity: 0, x: 50 },
   visible: { 
     opacity: 1, 
